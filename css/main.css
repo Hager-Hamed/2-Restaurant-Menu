@@ -1,0 +1,40 @@
+.Leaders__head__text {
+  padding-left: 6cm;
+}
+
+.Leaders__head p {
+  text-align: center;
+}
+
+.Leaders {
+  padding-left: 13rem;
+  padding-top: 2rem;
+}
+
+.card__body {
+  display: flex;
+  position: relative;
+  width: 30%;
+  height: 11rem;
+  color: #fff;
+  text-align: center;
+  background-color: #2125297a;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.card__imge {
+  position: absolute;
+}
+
+span {
+  color: yellow;
+  font-size: 1.5rem;
+}
+
+.card__body button {
+  background-color: yellow;
+  color: #000;
+  border: none;
+  font-size: 1.5rem;
+}
